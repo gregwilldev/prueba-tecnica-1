@@ -12,3 +12,8 @@ section{
   justify-content: space-between;
   gap: 10px;
 }
+h1{
+  color: #90b;
+  font-size: 32px;
+  font-style: italic;
+}
